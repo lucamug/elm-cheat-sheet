@@ -4,13 +4,13 @@ Learning Elm? Download the Elm Cheat Sheet to support you during the learning pr
 
 ## Downloads
 
-* [PDF Color](https://lucamug.github.io/elm-cheat-sheet/1.2/elm-cheat-sheet.color.pdf)
-* [PDF Black and White](https://lucamug.github.io/elm-cheat-sheet/1.2/elm-cheat-sheet.bw.pdf)
-* [Web Color](https://lucamug.github.io/elm-cheat-sheet/1.2/elm-cheat-sheet.color.html)
-* [Web Black and White](https://lucamug.github.io/elm-cheat-sheet/1.2/elm-cheat-sheet.bw.html)
+* [PDF Color](https://lucamug.github.io/elm-cheat-sheet/elm-cheat-sheet.color.pdf)
+* [PDF Black and White](https://lucamug.github.io/elm-cheat-sheet/elm-cheat-sheet.bw.pdf)
+* [Web Color](https://lucamug.github.io/elm-cheat-sheet/elm-cheat-sheet.html)
+* [Web Black and White](https://lucamug.github.io/elm-cheat-sheet/elm-cheat-sheet.html?red=0&green=0&blue=0)
 
 ![learning-elm](https://lucamug.github.io/elm-cheat-sheet/learning-elm.jpg)
 
-[![color](https://lucamug.github.io/elm-cheat-sheet/color.png)](https://lucamug.github.io/elm-cheat-sheet/1.2/elm-cheat-sheet.color.pdf)
+[![color](https://lucamug.github.io/elm-cheat-sheet/color.png)](https://lucamug.github.io/elm-cheat-sheet/elm-cheat-sheet.color.pdf)
 
-[![bw](https://lucamug.github.io/elm-cheat-sheet/bw.png)](https://lucamug.github.io/elm-cheat-sheet/1.2/elm-cheat-sheet.bw.pdf)
+[![bw](https://lucamug.github.io/elm-cheat-sheet/bw.png)](https://lucamug.github.io/elm-cheat-sheet/elm-cheat-sheet.bw.pdf)
